@@ -164,5 +164,14 @@ body{
     .card{
         width:400px;
     }
+    
+
 }
 
+@media(min-width:768px){
+    .img-bg{
+        background: url('./images/pattern-background-desktop.svg');
+        height:50vh;
+    }
+
+}
