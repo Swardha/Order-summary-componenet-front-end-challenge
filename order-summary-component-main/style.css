@@ -33,7 +33,7 @@ body{
 }
 /* baackground image */
 .img-bg{
-    background: url('./images/pattern-background-desktop.svg') no-repeat center/cover;
+    background: url('./images/pattern-background-mobile.svg') no-repeat center/cover;
     position:absolute;
     height:400px;
     top:0;
@@ -160,7 +160,7 @@ body{
 }
 
 
-@media(min-width:500px){
+@media(min-width:400px){
     .card{
         width:400px;
     }
