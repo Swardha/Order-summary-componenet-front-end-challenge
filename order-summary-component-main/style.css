@@ -159,7 +159,7 @@ body{
     color: hsl(228, 45%, 44%); 
 }
 
-
+/* media queries */
 @media(min-width:400px){
     .card{
         width:400px;
